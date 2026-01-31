@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labact1_Dinglas_IT202NIS", "Labact1_Dinglas_IT202NIS\Labact1_Dinglas_IT202NIS.csproj", "{47947F3A-EC58-4381-B7FF-B23C963805F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47947F3A-EC58-4381-B7FF-B23C963805F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47947F3A-EC58-4381-B7FF-B23C963805F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47947F3A-EC58-4381-B7FF-B23C963805F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47947F3A-EC58-4381-B7FF-B23C963805F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {920F83A4-5703-4258-AF82-DB390744AEF4}
+	EndGlobalSection
+EndGlobal
